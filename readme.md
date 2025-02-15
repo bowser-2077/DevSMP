@@ -1,5 +1,5 @@
 # DEV SMP V1
 
-![Test Image 3](/title.png)
+![Image](/title.png)
 
 ## Join DevSMP now!
