@@ -22,4 +22,4 @@ DevSMP is a Survival Multi Player (SMP) minecraft server.
 
 Follow this tutorial by clicking on the image below
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XHNnzGOpf6M/0.jpg)](https://www.youtube.com/watch?v=XHNnzGOpf6M)
+[Click Here](https://www.youtube.com/watch?v=XHNnzGOpf6M)
