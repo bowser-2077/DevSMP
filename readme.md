@@ -3,6 +3,7 @@
 ![Image](/title.png)
 
 ## Join DevSMP now!
+DevSMP is a Survival Multi Player (SMP) minecraft server.
 
 ### How to join
 
