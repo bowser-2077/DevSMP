@@ -17,3 +17,9 @@ DevSMP is a Survival Multi Player (SMP) minecraft server.
 - Virus free programms
 - More than 1 star
 - Official Minecraft Copy
+
+# Install minecraft
+
+Follow this tutorial by clicking on the image below
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XHNnzGOpf6M/0.jpg)](https://www.youtube.com/watch?v=XHNnzGOpf6M)
